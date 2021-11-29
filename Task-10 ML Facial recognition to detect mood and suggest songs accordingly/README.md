@@ -1,4 +1,4 @@
-# Task 10 - MML Facial recognition to detect mood and suggest songs accordingly
+# Task 10 - ML Facial recognition to detect mood and suggest songs accordingly
 
 ## LGMVIP Data Science Internship
 
